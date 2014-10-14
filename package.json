@@ -1,11 +1,11 @@
 {
-  "name": "ioshat-swift-label",
-  "title": "Label",
+  "name": "ioshat-swift-dimensions",
+  "title": "Layer Dimensions (Swift)",
   "version": "0.0.1",
-  "description": "Template for Label in Swift",
-  "main": "main.js",
-  "category": "label",
-  "layerType": ["textLayer"],
+  "description": "Template for Layer Dimensions in Swift",
+  "scope": "source.swift",
+  "main": "main.coffee",
+  "category": "dimensions",
   "author": "Tomas Ruzicka <tomasruzicka@abdoc.net> (https://github.com/lezuse)",
   "license": "MIT",
   "dependencies": {
